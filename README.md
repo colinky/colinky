@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋. Welcome To My Github.
+
+- 🔭 Sadly, I’m currently working on a tech-away fin inst now. 
+  * But one of my professional experience includes the work at the tech-related firm.
+- 🌱 I’m currently learning the analytic approaches and techniques to understand the situation in front of me.
 
 <!--
 **colinky/colinky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
