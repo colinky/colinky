@@ -1,7 +1,7 @@
 ### Hi there 👋. Welcome To My Github.
 
-- 🔭 Sadly, I’m currently working on a tech-away financial institution now. 
-  * But some part of my professional experience includes the work at the tech-related firm.
+- 🔭 I’m currently working as a data scientist on a financial institution now. 
+  * Also, some part of my professional experience includes the work at the tech-related firm.
 - 🌱 I’m currently learning the analytic approaches and techniques to understand the situation in front of me.
 
 <!--
