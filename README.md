@@ -1,8 +1,10 @@
 ### Hi there 👋. Welcome To My Github.
 
-- 🔭 I’m currently working as a data scientist on a financial institution now. 
-  * Also, some part of my professional experience includes the work at the tech-related firm.
-- 🌱 I’m currently learning the analytic approaches and techniques to understand the situation in front of me.
+- 🔭 As a data scientist, I leverage alternative data and AI to extract actionable signals for central banking policy.
+  * My background spans multi-billion USD reserve management, M&A valuation, and platform-scale user modeling.
+- 🌱 I focus on advancing quantitative methods to decode hidden patterns in complex, high-dimensional systems.
+
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hyeonkyu-lee-kr/)
 
 <!--
 **colinky/colinky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
