@@ -1,7 +1,7 @@
 ### Hi there 👋. Welcome To My Github.
 
 - 🔭 As a data scientist, I leverage alternative data and AI to extract actionable signals for central banking policy.
-  * My background spans multi-billion USD reserve management, M&A valuation, and platform-scale user modeling.
+  * My background spans multi-billion USD reserve management, M&A deal valuation, and platform-scale user modeling.
 - 🌱 I focus on advancing quantitative methods to decode hidden patterns in complex, high-dimensional systems.
 
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hyeonkyu-lee-kr/)
